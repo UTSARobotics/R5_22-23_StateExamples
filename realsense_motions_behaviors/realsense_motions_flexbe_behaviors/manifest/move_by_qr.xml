@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<behavior name="move_by_qr">
+
+	<executable package_path="realsense_motions_flexbe_behaviors.move_by_qr_sm" class="move_by_qrSM" />
+	<tagstring>no</tagstring>
+	<author>jc</author>
+	<date>Fri Feb 10 2023</date>
+	<description>
+		example
+	</description>
+
+
+	<!-- Contained Behaviors -->
+
+	<!-- Available Parameters -->
+
+</behavior>
